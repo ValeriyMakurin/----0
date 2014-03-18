@@ -1,0 +1,12 @@
+D:\AlmirCloudMailRu\09 Проекты\Visual Studio 2013\Projects\Валера\gotoxyString\gotoxyString\bin\Debug\gotoxyString.exe.config
+D:\AlmirCloudMailRu\09 Проекты\Visual Studio 2013\Projects\Валера\gotoxyString\gotoxyString\bin\Debug\gotoxyString.exe
+D:\AlmirCloudMailRu\09 Проекты\Visual Studio 2013\Projects\Валера\gotoxyString\gotoxyString\bin\Debug\gotoxyString.pdb
+D:\AlmirCloudMailRu\09 Проекты\Visual Studio 2013\Projects\Валера\gotoxyString\gotoxyString\obj\Debug\gotoxyString.csprojResolveAssemblyReference.cache
+D:\AlmirCloudMailRu\09 Проекты\Visual Studio 2013\Projects\Валера\gotoxyString\gotoxyString\obj\Debug\gotoxyString.exe
+D:\AlmirCloudMailRu\09 Проекты\Visual Studio 2013\Projects\Валера\gotoxyString\gotoxyString\obj\Debug\gotoxyString.pdb
+C:\Users\acer\Desktop\gotoxyString\gotoxyString\bin\Debug\gotoxyString.exe.config
+C:\Users\acer\Desktop\gotoxyString\gotoxyString\obj\Debug\gotoxyString.exe
+C:\Users\acer\Desktop\gotoxyString\gotoxyString\obj\Debug\gotoxyString.pdb
+C:\Users\acer\Desktop\gotoxyString\gotoxyString\bin\Debug\gotoxyString.exe
+C:\Users\acer\Desktop\gotoxyString\gotoxyString\bin\Debug\gotoxyString.pdb
+C:\Users\acer\Desktop\gotoxyString\gotoxyString\obj\Debug\gotoxyString.csprojResolveAssemblyReference.cache
