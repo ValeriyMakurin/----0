@@ -10,3 +10,9 @@ C:\Users\acer\Desktop\gotoxyString\gotoxyString\obj\Debug\gotoxyString.pdb
 C:\Users\acer\Desktop\gotoxyString\gotoxyString\bin\Debug\gotoxyString.exe
 C:\Users\acer\Desktop\gotoxyString\gotoxyString\bin\Debug\gotoxyString.pdb
 C:\Users\acer\Desktop\gotoxyString\gotoxyString\obj\Debug\gotoxyString.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\----0\gotoxyString\bin\Debug\gotoxyString.exe.config
+C:\Users\acer\Documents\GitHub\----0\gotoxyString\obj\Debug\gotoxyString.exe
+C:\Users\acer\Documents\GitHub\----0\gotoxyString\obj\Debug\gotoxyString.pdb
+C:\Users\acer\Documents\GitHub\----0\gotoxyString\bin\Debug\gotoxyString.exe
+C:\Users\acer\Documents\GitHub\----0\gotoxyString\bin\Debug\gotoxyString.pdb
+C:\Users\acer\Documents\GitHub\----0\gotoxyString\obj\Debug\gotoxyString.csprojResolveAssemblyReference.cache

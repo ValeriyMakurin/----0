@@ -11,7 +11,7 @@ namespace gotoxyString
         const int maxX = 79;
         const int maxY = 24;
 
-        static void Pole()
+        static void Borders()
         {
             Console.Clear();
             // верхняя граница
@@ -35,12 +35,7 @@ namespace gotoxyString
             string str = "Hello world (default)";
             if (args.Length != 0)
             {
-                str = "";
-                foreach (string s in args)
-                {
-                    str += s+" ";
-                }
-                str = str.Remove(str.Length - 1);
+                str = args[0];
             }
             Console.CursorVisible = false; // гасим курсор
             int x = maxX/2 - str.Length/2;
@@ -49,7 +44,7 @@ namespace gotoxyString
 
             do
             {
-                Pole();               
+                Borders();               
                 Console.SetCursorPosition(x, y);
                 Console.Write(str);
                 k = Console.ReadKey(true);
